@@ -2,7 +2,7 @@
 - 👀 I’m interested in general coding and electronic
 - 🌱 I’m currently learning cybersecurity, arduino, java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bartek.palka765@gmsil.com
+- 📫 How to reach me bartek.palka765@gmail.com
 - ⚡ Fun fact: 
 
 <!---
